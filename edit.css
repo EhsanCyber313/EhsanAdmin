@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "vazir";
+    src : url(./fonts/Vazirmatn[wght].woff2)
+}
+
+.hed {
+    background : yellow;
+    color : red;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 400px;
+    margin-left: 580px;
+    margin-bottom: 20px;
+}
+
+.button {
+    padding-top: 10px;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-bottom: 10px;
+    background-color: orange;
+    font-style: normal;
+    border-style: inset;
+}
+
+ .button:hover{
+    background-color:brown;
+    color: white;
+ }
+
+ .font {
+    font-family: "vazir";
+ }
